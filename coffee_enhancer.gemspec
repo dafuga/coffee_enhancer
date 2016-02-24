@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A simple package that emhances the amazing experience that is of using coffeescript.}
   spec.description   = %q{A simple package that emhances the amazing experience that is of using coffeescript.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/dafuga/coffee_enhancer"
   spec.license       = "MIT"
 
   spec.add_dependency 'coffee-script', '~> 2.4'
