@@ -15,9 +15,9 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.add_dependency 'coffee-script', '~> 2.4'
-  spec.add_dependency 'jasmine'
-  spec.add_dependency 'guard'
-  spec.add_dependency 'guard-coffeescript'
+  spec.add_dependency 'jasmine', '~> 2.4'
+  spec.add_dependency 'guard', '~> 2.13'
+  spec.add_dependency 'guard-coffeescript', '~> 2.0'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
