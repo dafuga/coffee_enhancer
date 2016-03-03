@@ -26,7 +26,7 @@ Date::formatted_time = ->
   minute = @getMinutes()
   "#{hour}:#{minute}"
 
-## Formats date to 24 hour clock time
+## Formats date
 Date::formatted_date = ->
   day = @getDate()
   monthIndex = @getMonth()
