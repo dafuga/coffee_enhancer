@@ -29,7 +29,7 @@ Add this to your application.js file:
 
 ## Documentation
 
-**Adds the following methods for coffee/js
+**Adds the following methods for coffee/js :**
 
 ```coffescript
 
